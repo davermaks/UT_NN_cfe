@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ШтрихкодированиеНоменклатурыКлиент" id="6a28d829-7ea0-49fb-8d4a-a762f214af2f" configVersion="b479a659a24dd7fbe9467c19f5041df06398a105"/>
+		<Metadata name="CommonModule.ШтрихкодированиеНоменклатурыКлиент.Module" id="6a28d829-7ea0-49fb-8d4a-a762f214af2f.0" configVersion="c7a23685623fcb28d6f4dccfbc15c755e270a536"/>
+		<Metadata name="CommonPicture.ЗаполнитьПоШаблону" id="169d5541-39c6-4f20-b59a-95b4a639b344" configVersion="4e3a5227e24bf6c93d5d8ca559b6b3a72b86a36b"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="d0f3322e-4dbe-4764-8116-cc7c3c28a652" configVersion="193f103405bd5c827375b1d2e92fd40c73c11d5a"/>
+		<Metadata name="CommonPicture.Набор" id="4acb2e95-aa0f-431d-bac8-b3f22172cdc8" configVersion="3ee7ea6c959f31ec1633f6e2c0de89d3ea4b6b46"/>
+		<Metadata name="CommonPicture.Наборы" id="ebd6665a-12c6-41a5-a9ae-3e83e14ee6c4" configVersion="b6c861b98116899837709ea21ec9700ef2e6e802"/>
+		<Metadata name="CommonPicture.Отчеты" id="3c344625-c022-4222-8ea2-54e92c24d104" configVersion="cb87cfb16123c4e6ea85c78597ba598a5e9c68da"/>
+		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="f1a499fa-164f-471c-a27c-3da6ac9bfd25" configVersion="ff324383626c1528c6d47f5df7ab9c229d431f6f"/>
+		<Metadata name="CommonPicture.СостоянияСтрок" id="ae9c5c47-3f96-4a8e-947f-4e0c266f3989" configVersion="f40053dcb289593a68ec6270c07a5c0d6dd1c945"/>
+		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="5cd5e3b9-8e86-4331-98a8-8b39b13b1124" configVersion="726568a0ee861f01e3e642b8b2222db3affb2957"/>
+		<Metadata name="Configuration.Lazmak_адаптация" id="0ca473e3-955d-4768-982f-d8398e119ebc" configVersion="b0ded4e56b1181ec21e5a0f87eaa8cd4512244cb"/>
+		<Metadata name="Document.ПеремещениеТоваров" id="cc8407d4-60ca-4f56-a2ef-bfc2b392529c" configVersion="11458d3ccf012b3100f294aa793a1be03866cc94"/>
+		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаДокумента" id="577fb0cf-965d-4131-8d31-b0a902ebde77" configVersion="f3a1c7f93a71e355cad80f19cf800f8914f13af9"/>
+		<Metadata name="Document.ПеремещениеТоваров.Form.ФормаДокумента.Form" id="577fb0cf-965d-4131-8d31-b0a902ebde77.0" configVersion="d2ac629cdad475e624a001744bfa7c24f292dede"/>
+		<Metadata name="Document.ПересчетТоваров" id="deeef86e-1ee7-4f86-acbb-9d9668233eb2" configVersion="170a443faef4b52cf3033cad6878f0e8d3662e10"/>
+		<Metadata name="Document.ПересчетТоваров.Form.ФормаДокумента" id="3910e859-1508-4732-a11a-0b9c5fd05fb3" configVersion="745845c89e20ba950221f9d8559bff850f5af0fa"/>
+		<Metadata name="Document.ПересчетТоваров.Form.ФормаДокумента.Form" id="3910e859-1508-4732-a11a-0b9c5fd05fb3.0" configVersion="9f0ac954d3d1d48a09194d96c6eef0e9bbf48625"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="85048334-c2d8-47f9-b723-a57bd5cdbd65" configVersion="d1a454fde28d8054489aea85821f277820525d46"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.ManagerModule" id="85048334-c2d8-47f9-b723-a57bd5cdbd65.2" configVersion="8ba0629ce3bef3758827adeed34dd6f6942d249a"/>
+		<Metadata name="Enum.СпособыДоставки" id="a81a385b-f813-4c9c-a16c-29a04c58f034" configVersion="75d2d5beda134eaccfd5ea228f6c271c289b08d2">
+			<Metadata name="Enum.СпособыДоставки.EnumValue.КПолучателюОпределяетСлужбаДоставки" id="04cacf9a-cdef-484e-961c-00b701ccf179"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.СиламиПеревозчикаПоАдресу" id="c6785f63-bb58-4b75-a7ad-73f9cef72966"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.ДоКлиента" id="cd55fe9d-846d-4ad4-9de8-86f6df9033d5"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.СиламиПеревозчика" id="e24988dc-37fe-41f7-a6af-fd7dca8aa6ed"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.Самовывоз" id="fd6d5e4c-1e55-4999-a80f-167e9361c78c"/>
+		</Metadata>
+		<Metadata name="Enum.ХозяйственныеОперации" id="b09632fa-3716-44dd-b34f-cd3264c0d3ed" configVersion="bc22c286a0998c844421abc371fdeb872de7b603">
+			<Metadata name="Enum.ХозяйственныеОперации.EnumValue.ПеремещениеТоваров" id="6c6df5e2-3333-4d1e-b472-5cac34783ab9"/>
+			<Metadata name="Enum.ХозяйственныеОперации.EnumValue.ПеремещениеТоваровМеждуФилиалами" id="bf58843b-be0b-4970-b01f-5d3e7ca1dad9"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="63b60921-9e12-477d-8826-79e9252db104" configVersion="10f26ccc3af19e7312799c29cee019f4f8149ad9"/>
+		<Metadata name="Role.lazmakОсновнаяРоль" id="82aac10d-a445-4bc0-97f3-a6c9466ee03e" configVersion="fe2aa0471c568936ea28974fa2b4e1e2172a7333"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="1f745d4c-befa-438e-981c-d8f0bbc79d5f" configVersion="4c0fd7a99f450442ef565b4f83a9b0316dd78071"/>
+		<Metadata name="StyleItem.ЦветФонаВыделения" id="86ed4207-30dd-407c-8dff-c4dfe7048c60" configVersion="07961ff24a1ddbc5b49217ecdf62be116f9e0cb1"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
