@@ -62,14 +62,13 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.lazmakОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor>LazarevMV</Vendor>
-			<Version>1.0.1.5</Version>
+			<Version>1.0.1.6</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
 			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
-			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
