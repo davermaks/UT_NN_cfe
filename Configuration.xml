@@ -41,11 +41,11 @@
 		</InternalInfo>
 		<Properties>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<Name>Lazmak_адаптация</Name>
+			<Name>Lazmak_NN</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Lazmak адаптация</v8:content>
+					<v8:content>Lazmak NN</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -62,7 +62,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.lazmakОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor>LazarevMV</Vendor>
-			<Version>1.0.1.6</Version>
+			<Version>1.0.1.7</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
